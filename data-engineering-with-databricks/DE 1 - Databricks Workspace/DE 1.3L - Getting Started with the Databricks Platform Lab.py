@@ -143,6 +143,16 @@ display(example_df)
 
 # COMMAND ----------
 
+# MAGIC %md  
+# MAGIC ## This is Test  
+# MAGIC * this is test 
+# MAGIC * point 2
+# MAGIC * point 3
+# MAGIC
+# MAGIC <a href="https://www.snowflake.com/blog/fast-easy-secure-llm-app-development-snowflake-cortex/">LLM app </a>
+
+# COMMAND ----------
+
 # DBTITLE 0,--i18n-55b2a6c6-2fc6-4c57-8d6d-94bba244d86e
 # MAGIC %md
 # MAGIC
